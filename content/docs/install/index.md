@@ -2,6 +2,6 @@
 title: Installation
 ---
 
-Memos is designed to be self-hosted with Docker. You can run it on any server with Docker installed.
+Memos is designed to be self-hosted using [Docker](https://www.docker.com).
 
-- [Container Install](/docs/install/container-install)
+- [A basic guide on deploying Memos with Docker](/docs/install/container-install.md)
